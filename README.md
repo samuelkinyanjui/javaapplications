@@ -14,6 +14,7 @@
 # 📗 Table of Contents
 
 - [📖 About the Project](#about-project)
+- [Project Aim](#projectaim)
   - [🛠 Built With](#built-with)
     - [Tech Stack](#tech-stack)
     - [Key Features](#key-features)
@@ -35,10 +36,11 @@
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 Pesersonal profile website <a name="about-project"></a>
+# 📖 Java questions and answers<a name="about-project"></a>
 
-> This is the second microverse project. I want to build strong personal website.
-
+> I have worked on number of Java questions
+# The aim of the project <a name="projectaim"> </a>
+To practise Java applications on project
 **personal website** is a...
 
 ## 🛠 Built With <a name="built-with"></a>
